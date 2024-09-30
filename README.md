@@ -1,4 +1,4 @@
-# Instruções para o Projeto de Cadastro de Vídeos de Músicas
+# Instruções para o Projeto de Cadastro de Músicas
 
 ## Descrição
 Este projeto permite o cadastro de músicas com informações como nome, autor e link do vídeo do YouTube. As músicas cadastradas são exibidas na mesma página.
